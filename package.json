@@ -1,0 +1,33 @@
+{
+  "name": "sample-gacha-bot",
+  "version": "1.0.0",
+  "description": "Simple example for play pulling gacha with bot in discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chance": "^1.0.16",
+    "discord.js": "^10.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/up2code/sample-gacha-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "discord-bot",
+    "discord-js",
+    "gacha"
+  ],
+  "author": "up2up",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/up2code/sample-gacha-bot/issues"
+  },
+  "homepage": "https://github.com/up2code/sample-gacha-bot#readme"
+}
