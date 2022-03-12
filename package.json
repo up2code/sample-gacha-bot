@@ -4,6 +4,7 @@
   "description": "Simple example for play pulling gacha with bot in discord",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "mocha"
   },
   "dependencies": {
